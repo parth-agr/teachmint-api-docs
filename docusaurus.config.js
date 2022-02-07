@@ -44,10 +44,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Teachmint Logo',
+          src: 'img/logo_light.svg',
+          srcDark: 'img/logo_dark.svg',
         },
         items: [
           {
