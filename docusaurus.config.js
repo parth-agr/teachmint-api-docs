@@ -45,7 +45,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'api/intro',
             position: 'left',
             label: 'Teachmint Video Service API',
           },
@@ -59,7 +59,7 @@ const config = {
             items: [
               {
                 label: 'Teachmint Video Service API',
-                to: '/',
+                to: 'api',
               },
             ],
           },

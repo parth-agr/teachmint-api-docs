@@ -28,7 +28,7 @@ const sidebars = {
    */
 
   docs: [
-    'intro',
+    'api/intro',
     {
       type: 'category',
       label: 'Rooms',
@@ -36,7 +36,7 @@ const sidebars = {
         type: 'generated-index',
       },
       collapsed: false,
-      items: ['rooms/create_or_modify_room', 'rooms/delete_room'],
+      items: ['api/rooms/create_or_modify_room', 'api/rooms/delete_room'],
     },
     {
       type: 'category',
@@ -45,7 +45,7 @@ const sidebars = {
         type: 'generated-index',
       },
       collapsed: false,
-      items: ['users/create_or_modify_user', 'users/delete_user'],
+      items: ['api/users/create_or_modify_user', 'api/users/delete_user'],
     },
     {
       type: 'category',
@@ -55,8 +55,8 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'recorded_videos/get_recorded_videos',
-        'recorded_videos/delete_recorded_videos',
+        'api/recorded_videos/get_recorded_videos',
+        'api/recorded_videos/delete_recorded_videos',
       ],
     },
   ],
