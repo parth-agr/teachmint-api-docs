@@ -59,4 +59,3 @@ Content-Type: application/json
 ### Response JSON Object
 
 - `obj` (jsonobj) – Details of Recorded Videos
-

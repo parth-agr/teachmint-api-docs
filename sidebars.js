@@ -36,10 +36,7 @@ const sidebars = {
         type: 'generated-index',
       },
       collapsed: false,
-      items: [
-        'rooms/create_or_modify_room',
-        'rooms/delete_room',
-      ],
+      items: ['rooms/create_or_modify_room', 'rooms/delete_room'],
     },
     {
       type: 'category',
@@ -48,10 +45,7 @@ const sidebars = {
         type: 'generated-index',
       },
       collapsed: false,
-      items: [
-        'users/create_or_modify_user',
-        'users/delete_user',
-      ],
+      items: ['users/create_or_modify_user', 'users/delete_user'],
     },
     {
       type: 'category',
@@ -65,7 +59,7 @@ const sidebars = {
         'recorded_videos/delete_recorded_videos',
       ],
     },
-  ]
+  ],
 };
 
 module.exports = sidebars;

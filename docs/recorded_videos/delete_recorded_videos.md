@@ -10,7 +10,6 @@ Remove recorded lectures
 
 ### Example request
 
-
 ```js
 POST /remove/videos  HTTP/1.1
 User-Agent: python-requests/2.25.1

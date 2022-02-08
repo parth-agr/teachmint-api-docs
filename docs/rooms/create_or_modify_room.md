@@ -48,6 +48,7 @@ Content-Type: application/json
 - `room_id` (string) – The new room id you want to add “Eg: red-wizard”
 
 ### Response JSON Object
+
 - `status` (boolean) – Whether room creation was sucessful
 
 - `msg` (string) – Specific message for response

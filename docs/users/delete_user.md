@@ -10,7 +10,6 @@ Remove user from a room
 
 ### Example request
 
-
 ```js
 POST /remove/user  HTTP/1.1
 User-Agent: python-requests/2.25.1
@@ -49,7 +48,6 @@ Content-Type: application/json
 - `room_id` (string) – The room id where you need to add user “Eg: red-wizard”
 
 - `user_id` (string) – The user_id we want’t to remove from room
-
 
 ### Response JSON Object
 

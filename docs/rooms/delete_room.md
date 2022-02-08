@@ -10,7 +10,6 @@ Removes a room and all the users in that room
 
 ### Example request
 
-
 ```js
 POST /remove/room  HTTP/1.1
 User-Agent: python-requests/2.25.1
@@ -48,6 +47,7 @@ Content-Type: application/json
 - `room_id` (string) – The new room id you want to add “Eg: red-wizard”
 
 ### Response JSON Object
+
 - `status` (boolean) – Whether room deletion was successful
 
 - `msg` (string) – Specific message for response
