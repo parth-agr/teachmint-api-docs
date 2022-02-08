@@ -10,7 +10,7 @@ Remove user from a room
 
 ### Example request
 
-```js
+```http
 POST /remove/user  HTTP/1.1
 User-Agent: python-requests/2.25.1
 Accept-Encoding: gzip, deflate
@@ -28,7 +28,7 @@ Content-Type: application/json
 
 ### Example response:
 
-```js
+```http
 HTTP/1.1 200 OK
 Server: nginx/1.18.0 (Ubuntu)
 Content-Type: application/json
