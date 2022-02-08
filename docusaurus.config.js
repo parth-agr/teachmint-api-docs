@@ -47,7 +47,13 @@ const config = {
             type: 'doc',
             docId: 'api/intro',
             position: 'left',
-            label: 'Teachmint Video Service API',
+            label: 'Video Service API',
+          },
+          {
+            type: 'doc',
+            docId: 'android_sdk/intro',
+            position: 'left',
+            label: 'Android SDK',
           },
         ],
       },
@@ -58,8 +64,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Teachmint Video Service API',
+                label: 'Video Service API',
                 to: 'api',
+              },
+              {
+                label: 'Android SDK',
+                to: 'android_sdk',
               },
             ],
           },

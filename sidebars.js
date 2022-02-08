@@ -26,8 +26,8 @@ const sidebars = {
     },
   ],
    */
-
-  docs: [
+  docs: [],
+  api: [
     'api/intro',
     {
       type: 'category',
@@ -63,6 +63,7 @@ const sidebars = {
       ],
     },
   ],
+  android_sdk: ['android_sdk/intro'],
 };
 
 module.exports = sidebars;
