@@ -14,7 +14,7 @@ Add/Update a user in a room for video. It return the url for live class. The url
 POST /add/user  HTTP/1.1
 User-Agent: python-requests/2.25.1
 Accept-Encoding: gzip, deflate
-Accept: */*
+accept: */*
 Connection: keep-alive
 Content-Type: application/json
 

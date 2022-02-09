@@ -14,7 +14,7 @@ Get all the recorded videos
 POST /get/videos  HTTP/1.1
 User-Agent: python-requests/2.25.1
 Accept-Encoding: gzip, deflate
-Accept: *
+accept: */*
 Connection: keep-alive
 Content-Type: application/json
 

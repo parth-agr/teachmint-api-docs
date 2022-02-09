@@ -60,6 +60,7 @@ const sidebars = {
       items: [
         'api/recorded_videos/get_recorded_videos',
         'api/recorded_videos/delete_recorded_videos',
+        'api/recorded_videos/fetch_recorded_videos',
       ],
     },
   ],
