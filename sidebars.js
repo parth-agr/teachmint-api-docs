@@ -32,30 +32,18 @@ const sidebars = {
     {
       type: 'category',
       label: 'Rooms',
-      link: {
-        type: 'generated-index',
-        slug: 'api/rooms',
-      },
       collapsed: false,
       items: ['api/rooms/create_or_modify_room', 'api/rooms/delete_room'],
     },
     {
       type: 'category',
       label: 'Users',
-      link: {
-        type: 'generated-index',
-        slug: 'api/users',
-      },
       collapsed: false,
       items: ['api/users/create_or_modify_user', 'api/users/delete_user'],
     },
     {
       type: 'category',
       label: 'Recorded Videos',
-      link: {
-        type: 'generated-index',
-        slug: 'api/recorded_videos',
-      },
       collapsed: false,
       items: [
         'api/recorded_videos/get_recorded_videos',

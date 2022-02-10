@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Delete room
 
 ** POST /remove/room **

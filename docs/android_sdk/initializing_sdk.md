@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Initializing the SDK
 
 To launch the TeachStack Video-conferencing platform, create an instance of the **TMVaaSBuilder** class and invoke the function **initializeVaas(activity, clientUrl)** as follows

@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Fetch Recorded Videos
 
 ** POST /TODO/videos **
