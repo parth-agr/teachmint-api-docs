@@ -64,7 +64,11 @@ const sidebars = {
       ],
     },
   ],
-  android_sdk: ['android_sdk/intro'],
+  android_sdk: [
+    'android_sdk/getting_started',
+    'android_sdk/initializing_sdk',
+    'android_sdk/addons',
+  ],
 };
 
 module.exports = sidebars;

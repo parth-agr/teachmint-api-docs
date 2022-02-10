@@ -51,7 +51,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'android_sdk/intro',
+            docId: 'android_sdk/getting_started',
             position: 'left',
             label: 'Android SDK',
           },
