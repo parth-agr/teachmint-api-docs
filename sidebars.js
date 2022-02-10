@@ -68,6 +68,12 @@ const sidebars = {
     'android_sdk/getting_started',
     'android_sdk/initializing_sdk',
     'android_sdk/addons',
+    {
+      type: 'category',
+      label: 'Changelogs',
+      collapsed: false,
+      items: ['android_sdk/changelogs/v0_2_5', 'android_sdk/changelogs/v0_2_4'],
+    },
   ],
 };
 
