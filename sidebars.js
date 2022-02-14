@@ -55,6 +55,7 @@ const sidebars = {
   android_sdk: [
     'android_sdk/getting_started',
     'android_sdk/initializing_sdk',
+    'android_sdk/activity_result',
     'android_sdk/addons',
     {
       type: 'category',
