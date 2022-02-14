@@ -39,8 +39,8 @@ const config = {
         title: '',
         logo: {
           alt: 'Teachmint Logo',
-          src: 'img/logo_light.svg',
-          srcDark: 'img/logo_dark.svg',
+          src: 'img/TeachstackLogo_Dark.svg',
+          srcDark: 'img/TeachstackLogo_Light.svg',
         },
         items: [
           {
