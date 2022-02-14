@@ -1,4 +1,4 @@
-# Remove Recorded Videos
+# Remove Recordings
 
 ** POST /remove/videos **
 

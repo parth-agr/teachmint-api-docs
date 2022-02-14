@@ -28,28 +28,24 @@ const sidebars = {
    */
   docs: [],
   api: [
-    'api/intro',
+    'api/overview',
     {
       type: 'category',
       label: 'Rooms',
       collapsed: false,
-      items: ['api/rooms/create_or_modify_room', 'api/rooms/delete_room'],
+      items: ['api/rooms/create', 'api/rooms/delete'],
     },
     {
       type: 'category',
       label: 'Users',
       collapsed: false,
-      items: ['api/users/create_or_modify_user', 'api/users/delete_user'],
+      items: ['api/users/create', 'api/users/delete'],
     },
     {
       type: 'category',
-      label: 'Recorded Videos',
+      label: 'Recordings',
       collapsed: false,
-      items: [
-        'api/recorded_videos/get_recorded_videos',
-        'api/recorded_videos/delete_recorded_videos',
-        'api/recorded_videos/fetch_recorded_videos',
-      ],
+      items: ['api/recordings/get', 'api/recordings/delete'],
     },
   ],
   android_sdk: [

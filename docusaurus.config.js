@@ -45,7 +45,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'api/intro',
+            docId: 'api/overview',
             position: 'left',
             label: 'Video Service API',
           },
