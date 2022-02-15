@@ -33,13 +33,13 @@ const sidebars = {
       type: 'category',
       label: 'Rooms',
       collapsed: false,
-      items: ['api/rooms/create', 'api/rooms/delete'],
+      items: ['api/rooms/add', 'api/rooms/delete'],
     },
     {
       type: 'category',
       label: 'Users',
       collapsed: false,
-      items: ['api/users/create', 'api/users/delete'],
+      items: ['api/users/add', 'api/users/delete'],
     },
     {
       type: 'category',

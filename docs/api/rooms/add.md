@@ -1,4 +1,4 @@
-# Create or modify room
+# Add room
 
 ** POST /add/room **
 

@@ -1,4 +1,4 @@
-# Create or modify user
+# Add user
 
 ** POST /add/user **
 
