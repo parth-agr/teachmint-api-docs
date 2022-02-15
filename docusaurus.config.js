@@ -87,7 +87,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/parth-agr/teachmint-api-docs/',
+                href: 'https://github.com/somveerp/api-docs/',
               },
             ],
           },
