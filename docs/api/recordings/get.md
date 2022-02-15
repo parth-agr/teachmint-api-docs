@@ -141,7 +141,7 @@ Content-Type: application/json
 - `client_id` (string) – Client Id
 
 - `auth_key` (string) – The Auth Key corresponding to Client Id
--
+
 - `room_id` (string) - Room Id
 
 ### Response JSON Object
