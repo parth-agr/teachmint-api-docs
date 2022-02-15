@@ -70,7 +70,7 @@ Content-Type: application/json
 ### Example request
 
 ```http
-POST /TODO/videos  HTTP/1.1
+POST /get/videos  HTTP/1.1
 User-Agent: python-requests/2.25.1
 Accept-Encoding: gzip, deflate
 accept: */*
