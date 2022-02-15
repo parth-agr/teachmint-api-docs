@@ -18,7 +18,7 @@ Content-Type: application/json
    "client_id": "teachmint",
    "auth_key": "W_7jNM1Cd-tqzinD4M3-9dMuQn4V3oMU0FB1HLD-JiFJqc9CVrrQzA",
    "room_id": "red-wizard",
-   "user_id": "student_01",
+   "user_id": "student_01"
 }
 ```
 
